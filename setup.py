@@ -10,7 +10,7 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='wenyang',
-    version='0.0.3',
+    version='0.0.4',
     author='Wenyang Duan',
     author_email='wenyang.duan@gmail.com',
     description='An example package',
